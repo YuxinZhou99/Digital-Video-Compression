@@ -1,0 +1,8 @@
+video = foreman.yuv;
+width = 352;
+height = 288;
+num_frame = 50;
+pad_value = 32;
+r = 1;
+n = 3;
+num_P_frame = 2;

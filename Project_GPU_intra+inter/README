@@ -1,0 +1,2 @@
+nvcc -arch sm_52 main.cu preprocessing.cpp write_to_txt.cpp decoder.cpp -o main
+./main
